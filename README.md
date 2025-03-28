@@ -7,3 +7,5 @@ Simply open tasks.txt and add tasks to the list.
 - Support for task priorities
 ## How to Contribute
 Fork the repository, create a new branch, and submit a pull request.
+## License
+MIT License
