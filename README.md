@@ -5,3 +5,5 @@ Simply open tasks.txt and add tasks to the list.
 ## Potential Future Features
 - Add task completion status
 - Support for task priorities
+## How to Contribute
+Fork the repository, create a new branch, and submit a pull request.
